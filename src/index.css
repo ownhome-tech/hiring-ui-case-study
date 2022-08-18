@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  background-color: #282c34;
+}
+
+@font-face {
+  font-family: "P22Mackinac";
+  font-weight: 500;
+  src: url(./static/P22MackinacMedium.otf);
+}
+
+@font-face {
+  font-family: "P22Mackinac";
+  font-style: italic;
+  font-weight: 500;
+  src: url(./static/P22MackinacMediumItalic.otf);
+}
+
+@font-face {
+  font-family: "P22Mackinac";
+  font-weight: 700;
+  src: url(./static/P22MackinacBold.otf);
+}
+
+@font-face {
+  font-family: "P22Mackinac";
+  font-weight: 700;
+  font-style: italic;
+  src: url(./static/P22MackinacBoldItalic.otf);
+}
+
+@font-face {
+  font-family: "P22Mackinac";
+  font-weight: 700;
+  font-style: italic;
+  src: url(./static/P22MackinacBoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'Suisse Intl';
+  font-weight: 400;
+  src: url(./static/SuisseIntl-Regular.otf);
+}
+
+@font-face {
+  font-family: 'Suisse Intl';
+  font-weight: 500;
+  src: url(./static/SuisseIntl-Medium.otf);
+}
+
+@font-face {
+  font-family: 'Suisse Intl';
+  font-weight: 700;
+  src: url(./static/SuisseIntl-SemiBold.otf);
+}

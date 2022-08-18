@@ -34,6 +34,8 @@ If you sign in to figma you will be able to inspect/download the designs
 ### Technical Notes
 Documentation for the API is below.
 
+[See OpenAPI Documentation](https://app.swaggerhub.com/apis/MITCH_2/Buying_Power_Calculator/0.0.1)
+
 ## Getting Started
 This application has been bootstrapped with [create-react-app](https://create-react-app.dev/docs/getting-started/). We use [yarn](https://yarnpkg.com/), but this should work with npm if that's your preference.
 

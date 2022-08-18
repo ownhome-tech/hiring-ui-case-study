@@ -21,6 +21,8 @@
       "react-app/jest"
     ]
   },
+  "author": "OwnHome Technologies PTY LTD",
+  "license": "UNLICENSED",
   "browserslist": {
     "production": [
       ">0.2%",

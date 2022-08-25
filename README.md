@@ -22,7 +22,7 @@ This project is a small public facing calculator to allow users to understand th
 ### How it works
 The calculator consists of the user providing their income, debt and desired location to buy. All these inputs are used to calculate how much OwnHome could buy for the customer. The higher the income the higher the buying power, the more debts the less the buying power. We have minimum buying power thresholds which we can support. 
 
-The user will be able to select/search for suburbs which they can buy in, we've provided a suburbs JSON which you can use to for results. Note, we we can only support some locations at this moment (e.g. we can only currently buy in suburbs around Sydney and Brisbane) so their is a screen for when they provide a suburb which we can't support and click submit. 
+The user will be able to select/search for suburbs where they want to buy. We've provided a suburbs JSON which you can use to for results. Note, we we can only support some locations at this moment (around Sydney and Brisbane). If they were to select a suburb which we can't support, then a screen which explains this should appear.
 
 Clicking 'Get Pre-Qualified for Free' will take the user to https://app.ownhome.com/apply
 

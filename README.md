@@ -17,7 +17,7 @@ This project is a small public facing calculator to allow users to understand th
 - Estimated deposit amount
 
 ### Write a function that calculates and displays the LVR based on the inputs
-- `depositAmount/propertyValue`
+- `(propertyValue - depositAmount)/propertyValue`
 - Dynamically show an explainer text based on the output value.
    - Where the results is `>80%` show the applicable text
    - When the results is `<=80%` show the applicable text

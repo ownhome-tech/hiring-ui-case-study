@@ -24,6 +24,7 @@ This project is a small public facing calculator to allow users to understand th
 
 ### Considerations
 - It's up to you to define the data structures
+- Style the application as per the designs provided below
 - Responsive behaviour of the layout and respond or adadpt elements down to a screen width of 320px.
 - Validate the form input with min/max ranges.
 - Add unit tests for loan calculation
